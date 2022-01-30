@@ -1,2 +1,2 @@
 # server-internet-plugin
-Show if your server is connected to internet - Runner.py to start
+Show if your server is connected to internet - Starter.py to start
